@@ -1,0 +1,15 @@
+mkdir nomeDaPasta criar a pasta
+rmdir /s /q nomeDaPasta remover a pasta como que tem dentr
+
+
+git add * (move tudo pra staged)
+git add nomeDoArquivo
+
+git commit -m "mensagem" colocou eles em commit
+
+GIT HUB
+user.name Couve-Flor
+user.email laismcorsi@gmail.com
+
+git push origin main -envia o arquivo pro git hub
+git clone LINK clono o repositório do gitHub pro meu local
