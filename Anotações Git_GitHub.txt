@@ -13,3 +13,8 @@ user.email laismcorsi@gmail.com
 
 git push origin main -envia o arquivo pro git hub
 git clone LINK clono o repositório do gitHub pro meu local
+
+ORDEM DE COMANDOS PARA MANDAR A VERSÃO PRO GITHUB
+git add *
+git commit -m "adiciona a mensagem do que tá fazendo"
+git push origin main
